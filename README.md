@@ -16,10 +16,10 @@ Url de Rawgit:
   
 Peso de los ficheros:  
   
-* readme.md         1,00kb  
+* readme.md         0,1kb  
 * index.html        3,46kb  
 * img/captura1.png  5,75kb  
 * img/captura2.png  9,77kb  
 * img/captura3.png  4,63kb  
   
-**Peso total del repositorio: 65,54kb**
+**Peso total del repositorio: 23,71kb**
