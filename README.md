@@ -10,9 +10,9 @@ Creada subcarpeta IMG para conetener las imagenes empleadas y enlazadas con ruta
 Url de Rawgit:  
 https://rawgit.com/jouxton/LMSGI2/master/index.html  
 Peso de los ficheros:  
-readme.md         1,00kb  
-index.html        3,46kb  
-img/captura1.png  5,75kb  
-img/captura2.png  9,77kb  
-img/captura3.png  4,63kb  
-Peso total del repositorio: 65,54kb
++readme.md         1,00kb  
++index.html        3,46kb  
++img/captura1.png  5,75kb  
++img/captura2.png  9,77kb  
++img/captura3.png  4,63kb  
++Peso total del repositorio: 65,54kb
