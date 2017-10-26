@@ -1,5 +1,6 @@
 # LMSGI2
-Trabajo **Nº2** de Lenguaje de Marcas  
+Segunda tarea de Lenguaje de Marcas  
+  
 Creado con Notepad++  
 Ortografía y gramática revisada en Open Office  
 Imagenes reescaladas y editadas para añadir indicaciones en Gimp  
