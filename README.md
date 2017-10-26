@@ -5,11 +5,12 @@ Creado con Notepad++
 Ortografía y gramática revisada en Open Office  
 Imagenes reescaladas y editadas para añadir indicaciones en Gimp  
 Imagenes optimizadas en https://tinypng.com/  
+  
 Subido a Github, en el repositorio:  
-https://github.com/jouxton/LMSGI2  
+* https://github.com/jouxton/LMSGI2  
 Creada subcarpeta IMG para conetener las imagenes empleadas y enlazadas con rutas relativas dentro del fichero index.HTML  
 Url de Rawgit:  
-https://rawgit.com/jouxton/LMSGI2/master/index.html  
+* https://rawgit.com/jouxton/LMSGI2/master/index.html  
 Peso de los ficheros:  
   
 - readme.md         1,00kb  
