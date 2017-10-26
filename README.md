@@ -17,4 +17,4 @@ Peso de los ficheros:
 - img/captura2.png  9,77kb  
 - img/captura3.png  4,63kb  
   
-- Peso total del repositorio: 65,54kb
+**Peso total del repositorio: 65,54kb**
